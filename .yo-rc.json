@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "TestApiFirstApp",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "Y2Q2ZWFkZDc1MjNlMDM0NTg4MmExZjNjNmU1MGViNTdmOTZlZDNlZjU0MTRhNTRlMDdmMDNjMzM3ZjFlODk2YjEzM2EzOTE5ZWIzNTgzMGM2Mzk2OTAyY2FjNjE3ODkyMTgwYmMxZWYwZGU3MzZkODQ1YTVjMTA0NzllNTllMTE=",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "danielmiralles",
+  "repository-name": "test-apifirst-application"
+}
